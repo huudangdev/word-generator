@@ -16,3 +16,13 @@ We then install our packages. We will use CKEditor for our rich text editor, Axi
 ![](https://imgur.com/tKGnGsy.png)
 ![](https://imgur.com/iVa3uRV.png)
 ![](https://imgur.com/2BKy1ii.png)
+
+---
+
+## Quick Start (Backend)
+
+```bash
+cd backend
+npm install
+npm start
+```
